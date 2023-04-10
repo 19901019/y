@@ -1,0 +1,8 @@
+# NAME: Game
+# TOTAL: 2
+
+#PlayStation
+DOMAIN-SUFFIX,np.stun.playstation.net
+
+#Nintendo
+DOMAIN,nncs1-lp1.n.n.srv.nintendo.net
