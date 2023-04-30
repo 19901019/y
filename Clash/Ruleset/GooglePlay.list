@@ -1,9 +1,12 @@
 # NAME: GooglePlay
-# TOTAL: 6
+# TOTAL: 9
 
+DOMAIN,play.googleapis.com
 DOMAIN,play-fe.googleapis.com
 DOMAIN,play-lh.googleusercontent.com
-DOMAIN,play.googleapis.com
+DOMAIN,lh3.googleusercontent.com
 DOMAIN,android.clients.google.com
+DOMAIN,books.google.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
