@@ -1,8 +1,38 @@
 # NAME: Game
-# TOTAL: 2
+# TOTAL: 32
 
 #PlayStation
 DOMAIN-SUFFIX,np.stun.playstation.net
 
 #Nintendo
 DOMAIN,nncs1-lp1.n.n.srv.nintendo.net
+DOMAIN,aauth-lp1.ndas.srv.nintendo.net
+DOMAIN,accounts.nintendo.com
+DOMAIN,api.accounts.nintendo.com
+DOMAIN,app-a02.lp1.npns.srv.nintendo.net
+DOMAIN,app-a04.lp1.npns.srv.nintendo.net
+DOMAIN,aqua.hac.lp1.d4c.nintendo.net
+DOMAIN,bcat-data-lp1.cdn.nintendo.net
+DOMAIN,bcat-list-lp1.cdn.nintendo.net
+DOMAIN,broker.lp1.npns.srv.nintendo.net
+DOMAIN,bugyo.hac.lp1.eshop.nintendo.net
+DOMAIN,ctest-ul-lp1.cdn.nintendo.net
+DOMAIN,ctest-dl-lp1.cdn.nintendo.net
+DOMAIN,consumer.lp1.npns.srv.nintendo.net
+DOMAIN,dragons.hac.lp1.dragons.nintendo.net
+DOMAIN,dragonst.hac.lp1.dragons.nintendo.net
+DOMAIN,dauth-lp1.ndas.srv.nintendo.net
+DOMAIN,ecs-lp1.hac.shop.nintendo.net
+DOMAIN,pushmo.hac.lp1.eshop.nintendo.net
+DOMAIN,receive-lp1.dg.srv.nintendo.net
+DOMAIN,receive-lp1.er.srv.nintendo.net
+DOMAIN,superfly.hac.lp1.d4c.nintendo.net
+DOMAIN,static.paymentweb.nintendo.com
+DOMAIN,stats.g.doubleclick.net
+DOMAIN,sun.hac.lp1.d4c.nintendo.net
+DOMAIN,tagaya.hac.lp1.eshop.nintendo.net
+DOMAIN,veer.hac.lp1.d4c.nintendo.net
+DOMAIN,web-lp1.share.srv.nintendo.net
+DOMAIN,www.google-analytics.com
+DOMAIN,www.googletagmanager.com
+DOMAIN,e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
