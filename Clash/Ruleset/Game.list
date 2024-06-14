@@ -1,16 +1,21 @@
 # NAME: Game
-# TOTAL: 6
+# TOTAL: 15
 
 #PlayStation
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
+DOMAIN,theia.dl.playstation.net
+DOMAIN,fswitch.dl.playstation.net
+DOMAIN,rnps-crl.dl.playstation.net
+DOMAIN,post.net.playstation.net
+DOMAIN-SUFFIX,np.playstation.net
+DOMAIN-SUFFIX,stun.playstation.net
+DOMAIN-SUFFIX,np.communication.playstation.net
+DOMAIN-SUFFIX,np.community.playstation.net
 
 #Nintendo
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
-
-#Steam
-DOMAIN-SUFFIX,steampowered.com
-
-#EpicGames
-DOMAIN-SUFFIX,epicgames.com
+DOMAIN,nncs1-lp1.n.n.srv.nintendo.net
+DOMAIN,aauth-lp1.ndas.srv.nintendo.net
+DOMAIN,receive-lp1.dg.srv.nintendo.net
+DOMAIN,fro-2.hac.lp1.penne.srv.nintendo.net
+DOMAIN,e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+DOMAIN,ctest-dl-lp1.cdn.nintendo.net
+DOMAIN-SUFFIX,srv.nintendo.net
