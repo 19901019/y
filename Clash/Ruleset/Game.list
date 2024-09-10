@@ -1,5 +1,5 @@
 # NAME: Game
-# TOTAL: 6
+# TOTAL: 4
 
 #PlayStation
 DOMAIN-SUFFIX,playstation.com
@@ -8,9 +8,3 @@ DOMAIN-SUFFIX,playstation.net
 #Nintendo
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
-
-#Steam
-DOMAIN-SUFFIX,steampowered.com
-
-#EpicGames
-DOMAIN-SUFFIX,epicgames.com
