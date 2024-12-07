@@ -1,0 +1,16 @@
+# NAME: GameDirect
+# TOTAL: 10
+
+#PlayStation
+DOMAIN,image.api.playstation.com
+DOMAIN,vulcan.dl.playstation.net
+DOMAIN,post.net.playstation.net
+DOMAIN,gs2.ww.prod.dl.playstation.net
+DOMAIN-SUFFIX,prod.dl.playstation.net
+DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
+
+#Nintendo
+DOMAIN,bugyo.hac.lp1.eshop.nintendo.net
+DOMAIN,dragons.hac.lp1.dragons.nintendo.net
+DOMAIN,atum.hac.lp1.d4c.nintendo.net
+DOMAIN-SUFFIX,eda.lp1.d4c.nintendo.net
