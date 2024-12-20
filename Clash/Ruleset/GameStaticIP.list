@@ -1,0 +1,6 @@
+# NAME: GameStaticIP
+# TOTAL: 2
+
+#StaticIP
+SRC-IP-CIDR,10.10.10.16/31
+SRC-IP-CIDR,10.10.10.18/32
