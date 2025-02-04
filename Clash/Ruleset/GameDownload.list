@@ -1,9 +1,0 @@
-# NAME: GameDownload
-# TOTAL: 3
-
-#PlayStation
-DOMAIN,gs2.ww.prod.dl.playstation.net
-DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
-
-#Nintendo
-DOMAIN,atum.hac.lp1.d4c.nintendo.net

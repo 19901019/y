@@ -1,9 +1,11 @@
 # NAME: Game
-# TOTAL: 4
+# TOTAL: 6
 
 #PlayStation
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,account.sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 #Nintendo
 DOMAIN-SUFFIX,nintendo.com
