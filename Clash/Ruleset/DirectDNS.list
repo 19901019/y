@@ -1,0 +1,7 @@
+# NAME: DirectDNS
+# TOTAL: 3
+
+#DirectDNS
+DOMAIN,dns.alidns.com
+DOMAIN,dot.pub
+DOMAIN,doh.pub

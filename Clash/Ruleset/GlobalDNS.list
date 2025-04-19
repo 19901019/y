@@ -1,0 +1,9 @@
+# NAME: GlobalDNS
+# TOTAL: 5
+
+#GlobalDNS
+DOMAIN,dns.cloudflare.com
+DOMAIN,dns.google
+DOMAIN,dns.quad9.net
+DOMAIN,dns.opendns.com
+DOMAIN,dns.sb
