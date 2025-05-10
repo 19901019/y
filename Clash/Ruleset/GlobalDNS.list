@@ -1,0 +1,19 @@
+# NAME: GlobalDNS
+# TOTAL: 15
+
+#GlobalDNS
+DOMAIN,dns.cloudflare.com
+DOMAIN,one.one.one.one
+DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN,dns.google
+DOMAIN,dns.opendns.com
+DOMAIN,doh.opendns.com
+DOMAIN,dns.umbrella.com
+DOMAIN,dns.sse.cisco.com
+DOMAIN,dns.quad9.net
+DOMAIN,dns9.quad9.net
+DOMAIN,dns.sb
+DOMAIN,dot.sb
+DOMAIN,doh.sb
+DOMAIN,doh.dns.sb
+DOMAIN,dns.nextdns.io
