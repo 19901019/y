@@ -1,0 +1,7 @@
+# NAME: DirectDNS
+# TOTAL: 3
+
+#DirectDNS
+DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,doh.pub
