@@ -1,0 +1,5 @@
+# NAME: RouterStaticIP
+# TOTAL: 1
+
+#RouterStaticIP
+SRC-IP-CIDR,10.10.10.3/32
