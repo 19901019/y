@@ -1,11 +1,9 @@
 # NAME: GameDirect
-# TOTAL: 10
+# TOTAL: 8
 
 #PlayStation
-DOMAIN,image.api.playstation.com
-DOMAIN,vulcan.dl.playstation.net
-DOMAIN,post.net.playstation.net
 DOMAIN,gs2.ww.prod.dl.playstation.net
+DOMAIN,gst.prod.dl.playstation.net
 DOMAIN-SUFFIX,prod.dl.playstation.net
 DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
 
