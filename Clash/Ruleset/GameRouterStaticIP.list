@@ -1,0 +1,5 @@
+# NAME: GameRouterStaticIP
+# TOTAL: 1
+
+#GameRouterStaticIP
+SRC-IP-CIDR,10.10.10.3/32
