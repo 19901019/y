@@ -1,0 +1,6 @@
+# NAME: GlobalDNS
+# TOTAL: 2
+
+#GlobalDNS
+DOMAIN,dns.cloudflare.com
+DOMAIN,dns.google
