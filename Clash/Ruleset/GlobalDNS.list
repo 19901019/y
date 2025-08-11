@@ -1,5 +1,5 @@
 # NAME: GlobalDNS
-# TOTAL: 15
+# TOTAL: 17
 
 #GlobalDNS
 DOMAIN-SUFFIX,dns.cloudflare.com
@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,doh.sb
 DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,dns.nextdns.io
+DOMAIN,d.adguard-dns.com
+DOMAIN-SUFFIX,adguard-dns.com
