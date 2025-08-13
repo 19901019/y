@@ -1,5 +1,5 @@
 # NAME: DirectDNS
-# TOTAL: 7
+# TOTAL: 9
 
 #DirectDNS
 DOMAIN-SUFFIX,novaxns.one
@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,kahkee.xns.one
 DOMAIN-SUFFIX,raito.xns.one
 DOMAIN-SUFFIX,pro.xns.one
 DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,nxns.link
+DOMAIN-SUFFIX,xns.rodeo
