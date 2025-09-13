@@ -1,13 +1,25 @@
 # NAME: DirectDNS
-# TOTAL: 9
+# TOTAL: 21
 
-#DirectDNS
-DOMAIN-SUFFIX,novaxns.one
-DOMAIN-SUFFIX,xns.my.id
-DOMAIN-SUFFIX,beta.xns.one
-DOMAIN-SUFFIX,kahkee.xns.one
-DOMAIN-SUFFIX,raito.xns.one
-DOMAIN-SUFFIX,pro.xns.one
-DOMAIN-SUFFIX,azurewebsites.net
+#NovaXNS
+DOMAIN,global.novaxns.one
+DOMAIN,b.xns.one
+DOMAIN,l.xns.one
+DOMAIN,f.xns.one
+DOMAIN,hk.beta.xns.one
+DOMAIN,hk1.beta.xns.one
+DOMAIN,hk2.beta.xns.one
+DOMAIN,jp.beta.xns.one
+DOMAIN,us.novaxns.one
+DOMAIN,jp.kahkee.xns.one
+DOMAIN,sg.kahkee.xns.one
+DOMAIN,hk.kahkee.xns.one
+DOMAIN,hk.raito.xns.one
+DOMAIN,jp.raito.xns.one
+DOMAIN,n.xns.one
+DOMAIN,v.xns.one
+DOMAIN,hk.pro.xns.one
+DOMAIN,jp.pro.xns.one
+DOMAIN,kr.pro.xns.one
+DOMAIN,gcore.novaxns.one
 DOMAIN-SUFFIX,nxns.link
-DOMAIN-SUFFIX,xns.rodeo
